@@ -4,41 +4,41 @@
     "hobby" : "Zelda",
     "age" : 21,
     "phone" : 1,
-    "address" : "Andador Sandia",
+    "address" : "Andador Sandia"
     },
     {
     "name" : "Barro",
     "hobby" : "Smash",
     "age" : 21,
     "phone" : 2,
-    "address" : "Obregon",
+    "address" : "Obregon"
     },
     {
     "name" : "Wilson",
     "hobby" : "Esplatun",
     "age" : 21,
     "phone" : 3,
-    "address" : "Obregon",
+    "address" : "Obregon"
     },
     {
     "name" : "Victor",
     "hobby" : "Nada alv",
     "age" : 21,
     "phone" : 4,
-    "address" : "Obregon",
+    "address" : "Obregon"
     },
     {
     "name" : "Erick",
     "hobby" : "Piano",
     "age" : 21,
     "phone" : 5,
-    "address" : "CDMX",
+    "address" : "CDMX"
     },
     {
     "name" : "Sonia",
     "hobby" : "Omegle",
     "age" : 21,
     "phone" : 6,
-    "address" : "Queretaro",
+    "address" : "Queretaro"
     }
 ]
